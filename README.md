@@ -14,8 +14,8 @@ The repository is intended to serve as:
 
 ## Author
 
-**Rajaneesh Kumar**
-GitHub Profile: [https://github.com/Rajaneeshkumar-code](https://github.com/Rajaneeshkumar-code)
+**Rajaneesh Kumar**<br>
+GitHub Profile: [https://github.com/Rajaneeshkumar-code](https://github.com/Rajaneeshkumar-code)<br>
 LinkedIn Profile: [https://www.linkedin.com/in/rajaneesh-kumar-0607a3273](https://www.linkedin.com/in/rajaneesh-kumar-0607a3273)
 
 ---
